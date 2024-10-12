@@ -1,0 +1,34 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
+
+.user-details {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 500px;
+  height: 100%;
+}
+.userlist{
+  display: flex ;
+  gap: 20px;
+}
