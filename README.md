@@ -23,12 +23,13 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/your-username/user-list-app.git
 cd user-list-app
+```
 
 ### 2. Install dependencies:
 To install all required dependencies, run:
-
 ```bash
 npm install
+```
 
 ### 3. Start the development server:
 To start the local development server with Vite, run:
@@ -36,3 +37,4 @@ To start the local development server with Vite, run:
 ```bash
 Copy code
 npm run dev
+```
